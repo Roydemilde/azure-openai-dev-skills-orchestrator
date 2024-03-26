@@ -30,13 +30,13 @@
 
 In order for us to know which skill and persona we need to talk with, we are using Labels in Github Issues
 
-The default bunch of skills and personnas are as follows:
+The default bunch of skills and personnas are as follows, please add them to your repo:
 - PM.Readme
 - Do.It
 - DevLead.Plan
 - Developer.Implement
 
-Once you start adding your own skills, just remember to add the corresponding Label!
+Once you start adding your own skills, just remember to add the corresponding labels to your repo.
 
 ## How do I run this locally?
 
